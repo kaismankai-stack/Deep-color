@@ -1,48 +1,57 @@
 # Deep Color
 
-Deep Color est une application basée sur l'intelligence artificielle qui permet de coloriser automatiquement des images en noir et blanc.
+Deep Color è un'applicazione basata sull'intelligenza artificiale che consente di colorare automaticamente immagini in bianco e nero utilizzando tecniche di Deep Learning.
 
-## Fonctionnalités
+## Funzionalità
 
-- Colorisation automatique d'images
-- Interface simple et intuitive
-- Téléchargement des images colorisées
+* Colorazione automatica delle immagini in bianco e nero.
+* Interfaccia semplice e intuitiva.
+* Caricamento e download delle immagini.
+* Elaborazione rapida e risultati di alta qualità.
 
-## Installation
+## Installazione
 
-Clonez le dépôt :
+Clona il repository:
 
 ```bash
 git clone https://github.com/kaismankai-stack/Deep-color.git
 cd Deep-color
 ```
 
-Installez les dépendances :
+Installa le dipendenze:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Lancez l'application :
+Avvia l'applicazione:
 
 ```bash
 python app.py
 ```
 
-## Technologies utilisées
+## Tecnologie utilizzate
 
-- Python
-- Flask
-- OpenCV
-- Deep Learning
+* Python
+* Flask
+* OpenCV
+* Deep Learning
+* HTML / CSS / JavaScript
 
-## Auteur
+## Utilizzo
 
-Kais Mankai
-DOUGARI MOHAMED YASSINE
-SOUSSI MOHAMED ALI
+1. Avvia l'applicazione.
+2. Carica un'immagine in bianco e nero.
+3. Attendi il completamento dell'elaborazione.
+4. Scarica l'immagine colorizzata.
+
+## Autore
+
+**Kais Mankai**
+**soussi Mohamed Ali**
+**DOUGARI MOHAMED YASSINE**
 
 
-## Licence
+## Licenza
 
-Ce projet est distribué sous licence MIT.
+Questo progetto è distribuito con licenza MIT.
